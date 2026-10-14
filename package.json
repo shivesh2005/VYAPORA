@@ -5,7 +5,12 @@
   "scripts": {
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",
-    "build": "npm run build:client && npm run build:server",
+    "install:client": "npm install --prefix client --include=dev",
+    "install:server": "npm install --prefix server --include=dev",
+    "install:all": "npm run install:client && npm run install:server",
+    "prebuild": "npm run install:client",
+    "build": "npm run build:client",
+    "prebuild:client": "npm run install:client",
     "build:client": "cd client && npm run build",
     "build:server": "cd server && npm run build",
     "test": "npm run test:server && npm run test:client",
