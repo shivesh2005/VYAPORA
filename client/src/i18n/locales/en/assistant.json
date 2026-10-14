@@ -1,0 +1,20 @@
+{
+  "title": "VYAPORA Shopping Assistant",
+  "badge": "Optional Shopping Advisor",
+  "poweredBy": "Powered by Google Gemini",
+  "groundedSubtitle": "Live MongoDB catalog inventory • Zero hallucinated prices",
+  "welcome": "Hello! I am the VYAPORA Shopping Assistant. I can help you search our catalog, compare specifications side-by-side, filter by budget, and discover verified in-stock deals.",
+  "newChat": "New Chat",
+  "popularQuestions": "Popular Shopping Questions",
+  "clickToAsk": "Click any prompt to ask",
+  "questions": [
+    { "text": "Recommend the best laptop under ₹50,000", "cat": "Laptops" },
+    { "text": "Compare active noise cancellation headphones vs wireless earbuds", "cat": "Audio" },
+    { "text": "Show durable waterproof backpacks for college", "cat": "Accessories" },
+    { "text": "Find a great birthday gift under ₹2,000", "cat": "Gifts" },
+    { "text": "What is the return and refund policy on VYAPORA?", "cat": "Policy" },
+    { "text": "What are today's top discounts and offers?", "cat": "Deals" }
+  ],
+  "composerPlaceholder": "Ask VYAPORA assistant... e.g. Compare laptops, find discounts, or get product suggestions...",
+  "disclaimer": "Optional assistant • Grounded in verified MongoDB catalog inventory • Powered by Google Gemini"
+}

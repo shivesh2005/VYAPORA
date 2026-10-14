@@ -1,0 +1,55 @@
+{
+  "filters": {
+    "title": "Filters",
+    "clearAll": "Clear All",
+    "category": "Category",
+    "brand": "Brand",
+    "priceRange": "Price Range",
+    "minPrice": "Min",
+    "maxPrice": "Max",
+    "rating": "Rating & Above",
+    "inStockOnly": "In Stock Only",
+    "sortBy": "Sort By",
+    "sortOptions": {
+      "newest": "Newest Arrivals",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "rating": "Highest Rated",
+      "popular": "Most Popular"
+    }
+  },
+  "status": {
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "itemsLeft": "Only {{count}} left in stock",
+    "freeDelivery": "Free Delivery",
+    "reviews": "reviews",
+    "rating": "Rating",
+    "sku": "SKU",
+    "brand": "Brand",
+    "seller": "Sold by",
+    "verifiedPurchase": "Verified Purchase"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your shopping cart is empty",
+    "emptySub": "Discover our collection and find something special today.",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping Fee",
+    "free": "FREE",
+    "discount": "Discount",
+    "total": "Total Amount",
+    "couponPlaceholder": "Enter coupon code (e.g. SAVE20)",
+    "applyCoupon": "Apply Coupon",
+    "couponApplied": "Coupon {{code}} applied successfully!",
+    "proceedToCheckout": "Proceed to Checkout",
+    "quantity": "Quantity",
+    "remove": "Remove"
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "emptySub": "Save items you like and track their price changes here.",
+    "moveToCart": "Move to Cart"
+  }
+}

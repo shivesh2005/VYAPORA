@@ -1,0 +1,83 @@
+{
+  "brandName": "VYAPORA",
+  "tagline": "Shop Smart. Live Better.",
+  "search": "Search products, brands, models, or categories...",
+  "searchBtn": "Search",
+  "allCategories": "All Categories",
+  "nav": {
+    "home": "Home",
+    "shop": "Shop All",
+    "categories": "Categories",
+    "deals": "Deals & Offers",
+    "wishlist": "Wishlist",
+    "cart": "My Cart",
+    "orders": "My Orders",
+    "profile": "My Profile",
+    "becomeSeller": "Become a Seller",
+    "sellerDashboard": "Seller Dashboard",
+    "membership": "Membership Plans",
+    "contact": "Contact Us",
+    "faq": "Help & FAQs",
+    "about": "About Us",
+    "admin": "Admin Dashboard",
+    "login": "Sign In",
+    "register": "Register",
+    "logout": "Sign Out",
+    "menu": "Navigation Menu",
+    "close": "Close"
+  },
+  "promoBanner": "Limited Time Offer: Get 20% OFF on Orders Over ₹2,499 | Use code: {{code}}",
+  "shopNow": "Shop Now",
+  "actions": {
+    "addToCart": "Add to Cart",
+    "adding": "Adding...",
+    "added": "Added to Cart",
+    "buyNow": "Buy Now",
+    "viewDetails": "View Details",
+    "explore": "Explore",
+    "save": "Save",
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "retry": "Retry",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "continueShopping": "Continue Shopping",
+    "back": "Back"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggleTheme": "Toggle theme"
+  },
+  "lang": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "selectLang": "Select language"
+  },
+  "footer": {
+    "description": "VYAPORA is a premier multi-vendor e-commerce marketplace connecting verified sellers with discerning buyers. Shop Smart. Live Better.",
+    "marketplace": "Marketplace",
+    "forSellers": "For Sellers",
+    "company": "Company",
+    "legal": "Legal & Security",
+    "newsletterTitle": "Subscribe to VYAPORA Updates",
+    "newsletterPlaceholder": "Enter your email address",
+    "rights": "All rights reserved. College Mini-Project & Portfolio Edition.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "shipping": "Shipping & Returns"
+  },
+  "trust": {
+    "fastDelivery": "Fast Delivery",
+    "fastDeliveryDesc": "Complimentary express delivery on orders over ₹999",
+    "securePayment": "Secure Transactions",
+    "securePaymentDesc": "Encrypted multi-vendor checkout and instant refunds",
+    "verifiedMerchants": "Verified Sellers",
+    "verifiedMerchantsDesc": "100% authentic items backed by store guarantee",
+    "support": "Customer Support",
+    "supportDesc": "Dedicated help desk and live tracking updates"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "seller": {
+    "dashboardTitle": "Merchant Command Center",
+    "dashboardSubtitle": "Overview of sales revenue, inventory health, and recent marketplace orders",
+    "totalRevenue": "Total Revenue",
+    "totalOrders": "Total Orders",
+    "activeListings": "Active Listings",
+    "avgOrderValue": "Avg Order Value",
+    "productsTitle": "Product Catalog Management",
+    "addProduct": "Add New Product",
+    "storefrontCustomizer": "Storefront Customizer",
+    "membership": "Seller Membership & Quotas",
+    "upgradePlan": "Upgrade Plan"
+  },
+  "admin": {
+    "dashboardTitle": "Platform Admin Console",
+    "dashboardSubtitle": "Global telemetry, seller verification, user moderation, and AI engine status",
+    "gmv": "Gross Merchandise Value",
+    "users": "Registered Users",
+    "sellers": "Active Sellers",
+    "orders": "Total Platform Orders",
+    "aiConfig": "Gemini AI Engine Settings",
+    "pendingSellers": "Pending Seller Approvals",
+    "approve": "Approve",
+    "reject": "Reject",
+    "suspend": "Suspend",
+    "activate": "Activate"
+  },
+  "plans": {
+    "title": "Transparent Seller Membership Plans",
+    "subtitle": "Choose the tier that fits your sales volume. Scale smoothly with predictable listing limits.",
+    "starter": "Starter",
+    "pro": "Pro",
+    "business": "Business",
+    "mostPopular": "Most Popular",
+    "currentPlan": "Current Active Plan",
+    "upgrade": "Upgrade to {{name}}",
+    "month": "month",
+    "maxProducts": "Max Products",
+    "aiQueries": "Monthly AI Queries",
+    "analytics": "Advanced Analytics",
+    "customTheme": "Custom Storefront Branding",
+    "prioritySupport": "Priority Support SLA"
+  }
+}

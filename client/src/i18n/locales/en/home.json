@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "headline": "Everything You Love, All in One Place.",
+    "subtext": "Discover great products, compare options, and shop from multiple sellers in one convenient marketplace.",
+    "primaryCta": "Start Shopping",
+    "secondaryCta": "Explore Categories",
+    "badge1": "Multi-Vendor Marketplace",
+    "badge2": "100% Genuine Products",
+    "badge3": "Fast Pan-India Delivery",
+    "badge4": "Secure Digital Checkout"
+  },
+  "sections": {
+    "categories": "Shop by Category",
+    "categoriesSubtitle": "Explore thousands of handpicked items across popular departments",
+    "featured": "Featured Products",
+    "featuredSubtitle": "Handpicked top-rated products from verified marketplace stores",
+    "trending": "Trending Bestsellers",
+    "trendingSubtitle": "Customer favorites that are selling fast this week",
+    "newArrivals": "New Arrivals",
+    "newArrivalsSubtitle": "Fresh styles, cutting-edge electronics, and latest additions",
+    "dealsBanner": "Festive Deals & Special Offers",
+    "dealsBannerSub": "Enjoy flat 20% savings on top categories with code SAVE20 at checkout",
+    "sellerCtaTitle": "Sell on VYAPORA Marketplace",
+    "sellerCtaSub": "Reach thousands of active shoppers, launch your branded storefront, and scale your commerce business.",
+    "sellerCtaBtn": "Open Your Store",
+    "assistantPromoTitle": "Need Shopping Advice?",
+    "assistantPromoSub": "Try our optional shopping assistant for quick catalog searches, product comparisons, and budget recommendations.",
+    "assistantPromoBtn": "Ask Shopping Assistant"
+  }
+}

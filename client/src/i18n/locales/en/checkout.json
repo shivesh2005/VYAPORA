@@ -1,0 +1,35 @@
+{
+  "checkout": {
+    "title": "Secure Checkout",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "demoSandbox": "Demo Sandbox Simulation Mode",
+    "demoSandboxDesc": "No real card or bank charge will occur. Order status and inventory decrements are 100% genuine in MongoDB.",
+    "upi": "Instant UPI / QR",
+    "card": "Credit / Debit Card",
+    "cod": "Cash on Delivery",
+    "placeOrder": "Confirm & Place Order",
+    "placingOrder": "Processing Transaction...",
+    "orderSuccess": "Order Placed Successfully!",
+    "orderSuccessSub": "Thank you for shopping with VYAPORA. Your tracking ID has been generated."
+  },
+  "orders": {
+    "title": "My Orders & Shipments",
+    "empty": "No orders found",
+    "emptySub": "Your purchased items and live dispatch tracking will appear here.",
+    "orderNumber": "Order #",
+    "placedOn": "Placed on",
+    "status": "Status",
+    "trackShipment": "Track Shipment",
+    "cancelOrder": "Cancel Order",
+    "total": "Total Amount",
+    "timeline": {
+      "pending": "Order Placed",
+      "confirmed": "Confirmed",
+      "processing": "Packed at Depot",
+      "shipped": "Dispatched",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    }
+  }
+}

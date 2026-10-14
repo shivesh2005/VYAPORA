@@ -1,0 +1,28 @@
+{
+  "name": "ejan-seva-ecommerce",
+  "version": "1.0.0",
+  "description": "EJAN SEVA | VYAPORA — Next-Gen Multi-Vendor E-Commerce Marketplace & SaaS Cloud",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "cd client && npm run build",
+    "build:server": "cd server && npm run build",
+    "test": "npm run test:server && npm run test:client",
+    "test:server": "cd server && npm run test",
+    "test:client": "cd client && npm run test",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": [
+    "ecommerce",
+    "saas",
+    "multi-vendor",
+    "ai",
+    "mongodb",
+    "express",
+    "react",
+    "typescript"
+  ],
+  "author": "NEXORA Engineering",
+  "license": "MIT"
+}

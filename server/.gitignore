@@ -1,0 +1,22 @@
+# Server Git Exclusions
+node_modules/
+dist/
+
+# Local Environment Variables (CRITICAL)
+.env
+.env.*
+!.env.example
+*.env
+*.env.local
+
+# Logs
+logs/
+*.log
+
+# Uploads & Coverage
+uploads/
+coverage/
+
+# OS & Editor
+.DS_Store
+Thumbs.db

@@ -1,0 +1,55 @@
+{
+  "filters": {
+    "title": "फ़िल्टर",
+    "clearAll": "सभी साफ़ करें",
+    "category": "श्रेणी",
+    "brand": "ब्रांड",
+    "priceRange": "मूल्य सीमा",
+    "minPrice": "न्यूनतम",
+    "maxPrice": "अधिकतम",
+    "rating": "रेटिंग और अधिक",
+    "inStockOnly": "केवल स्टॉक में उपलब्ध",
+    "sortBy": "क्रमबद्ध करें",
+    "sortOptions": {
+      "newest": "नवीनतम आगमन",
+      "priceLowHigh": "मूल्य: कम से अधिक",
+      "priceHighLow": "मूल्य: अधिक से कम",
+      "rating": "उच्चतम रेटिंग",
+      "popular": "सबसे लोकप्रिय"
+    }
+  },
+  "status": {
+    "inStock": "स्टॉक में उपलब्ध",
+    "outOfStock": "स्टॉक समाप्त",
+    "itemsLeft": "केवल {{count}} आइटम शेष",
+    "freeDelivery": "मुफ्त डिलीवरी",
+    "reviews": "समीक्षाएं",
+    "rating": "रेटिंग",
+    "sku": "एसकेयू",
+    "brand": "ब्रांड",
+    "seller": "विक्रेता",
+    "verifiedPurchase": "सत्यापित खरीद"
+  },
+  "cart": {
+    "title": "शॉपिंग कार्ट",
+    "empty": "आपकी शॉपिंग कार्ट खाली है",
+    "emptySub": "हमारे संग्रह को देखें और आज ही अपनी पसंद का सामान चुनें।",
+    "subtotal": "उप-योग",
+    "shipping": "शिपिंग शुल्क",
+    "free": "निःशुल्क",
+    "discount": "छूट",
+    "total": "कुल राशि",
+    "couponPlaceholder": "कूपन कोड दर्ज करें (उदा. SAVE20)",
+    "applyCoupon": "कूपन लागू करें",
+    "couponApplied": "कूपन {{code}} सफलतापूर्वक लागू हुआ!",
+    "proceedToCheckout": "चेकआउट की ओर बढ़ें",
+    "quantity": "मात्रा",
+    "remove": "हटाएँ"
+  },
+  "wishlist": {
+    "title": "मेरी पसंदीदा सूची",
+    "empty": "आपकी पसंदीदा सूची खाली है",
+    "emptySub": "मनपसंद आइटम सहेजें और उनके मूल्यों में बदलाव पर नज़र रखें।",
+    "moveToCart": "कार्ट में डालें"
+  }
+}

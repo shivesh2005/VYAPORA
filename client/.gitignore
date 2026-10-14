@@ -1,0 +1,17 @@
+# Client Git Exclusions
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Editor & OS
+.DS_Store
+Thumbs.db
